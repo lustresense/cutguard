@@ -111,7 +111,7 @@ Cutguard is an assistive methodology. It is not a vulnerability scanner, penetra
 
 ## Attribution
 
-Created by **Farchan Deano Muhammad** (`lustresense`).
+Created by **Farchan Deano** (`lustresense`).
 
 Inspired by [Ponytail](https://github.com/DietrichGebert/ponytail) and [raroque/vibe-security-skill](https://github.com/raroque/vibe-security-skill), with security references drawn from OWASP ASVS, OWASP agentic-security guidance, NIST SSDF, OpenSSF, and official provider documentation. Cutguard is independently written and does not imply endorsement by those projects or organizations.
 
