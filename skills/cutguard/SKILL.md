@@ -4,7 +4,7 @@ description: Implement or refactor software by classifying risk and locking requ
 license: MIT
 compatibility: Works as an Agent Skill in clients that support the open SKILL.md format. Requires access to the target repository and its normal verification tools.
 metadata:
-  author: Farchan Deano Muhammad
+  author: lustresense
   version: "0.1.0"
 ---
 
