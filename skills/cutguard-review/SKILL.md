@@ -4,7 +4,7 @@ description: Review a code diff or repository change for both unnecessary implem
 license: MIT
 compatibility: Works as an Agent Skill in clients that support the open SKILL.md format. Requires access to the diff and relevant repository files.
 metadata:
-  author: Farchan Deano Muhammad
+  author: lustresense
   version: "0.1.0"
 ---
 
