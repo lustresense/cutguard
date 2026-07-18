@@ -1,5 +1,7 @@
 # Cutguard
 
+![Cutguard — cut code, not corners](branding/banner.svg)
+
 **Cut code, not corners.**
 
 Cutguard is an open-source reasoning method and Agent Skills package for AI coding agents. It classifies risk and locks the controls required at a trust boundary before the agent starts reducing code, files, dependencies, or architecture.
@@ -20,6 +22,8 @@ Cutguard resolves that conflict through order:
 6. **Implement the smallest secure solution.**
 7. **Attack negative paths.**
 8. **Report evidence and residual risk.**
+
+<img src="branding/flow-diagram.svg" alt="The Cutguard method: 8 stages, with Lock invariants marked as the one non-negotiable checkpoint" width="600">
 
 A feature may be removed or simplified. A required authorization, ownership, validation, secret-isolation, abuse-control, or data-integrity guard may not be removed merely to reduce LOC, files, tokens, or delivery time.
 
@@ -111,7 +115,7 @@ Cutguard is an assistive methodology. It is not a vulnerability scanner, penetra
 
 ## Attribution
 
-Created by **Farchan Deano** (`lustresense`).
+Created by [**lustresense**](https://github.com/lustresense).
 
 Inspired by [Ponytail](https://github.com/DietrichGebert/ponytail) and [raroque/vibe-security-skill](https://github.com/raroque/vibe-security-skill), with security references drawn from OWASP ASVS, OWASP agentic-security guidance, NIST SSDF, OpenSSF, and official provider documentation. Cutguard is independently written and does not imply endorsement by those projects or organizations.
 
